@@ -11,7 +11,7 @@
     </properties>
 
 
-    <groupId>kirkwood.nidaq</groupId>
+    <groupId>kirkwood</groupId>
     <artifactId>nidaq</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
